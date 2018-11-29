@@ -115,7 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Practice_Template.cpp" />
     <ClCompile Include="Vector_Output_Template.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TemplatePractice.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
